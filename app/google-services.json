@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498408074255",
+    "firebase_url": "https://authandmessaging-5fe2b.firebaseio.com",
+    "project_id": "authandmessaging-5fe2b",
+    "storage_bucket": "authandmessaging-5fe2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498408074255:android:46d999fe425bc3a9",
+        "android_client_info": {
+          "package_name": "example.rakhasehat.com.authandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498408074255-bjjoe42ov2vnmr839t4ohaajleab94vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.rakhasehat.com.authandmessaging",
+            "certificate_hash": "c84d3df3d3fe57129a93525482ca615d563c46a0"
+          }
+        },
+        {
+          "client_id": "498408074255-o3g84je4e31mtp9894to0b4mhfud1u58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLUtj5kSlyJTjoMFKMzIjyhfOM5FxmG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498408074255-o3g84je4e31mtp9894to0b4mhfud1u58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
